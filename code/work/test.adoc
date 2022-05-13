@@ -1,0 +1,11 @@
+= Test
+:author: Christian Meyer
+:email: code@chrisime.xyz
+:revdate: {docdate}
+:description: description
+:keywords: some keywords
+:url-repo: https://github.com/chrisime
+:icons: image
+:source-highlighter: coderay
+
+== See what asciidoc can do here
